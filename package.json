@@ -1,0 +1,11 @@
+{
+  "name": "sda-tuyimbe-web-optimizer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "optimize": "node tools/optimize-images.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.0"
+  }
+}
