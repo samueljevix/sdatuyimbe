@@ -1,0 +1,1 @@
+its an sda hymnal book pc app by Lugya samuel jevix with langauge swith luganda/english audio play, solfa sheet, projection support power point like display for more ifo visit https://sdatuyimbe.netlify.app/ follow the installation guide
